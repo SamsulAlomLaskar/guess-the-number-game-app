@@ -22,7 +22,7 @@ body {
 header {
   position: relative;
   height: 35vh;
-  border-bottom: 7px solid #eee;
+  border-bottom: 4px solid #eee;
 }
 
 main {
@@ -78,8 +78,11 @@ h1 {
 
 .reset {
   position: absolute;
-  top: 2rem;
-  left: 2rem;
+  width: auto;
+  height: 5.5rem;
+  /* padding: 90px; */
+  top: 1rem;
+  left: 1rem;
 }
 
 .userInput {

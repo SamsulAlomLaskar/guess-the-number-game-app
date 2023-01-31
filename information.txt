@@ -1,0 +1,16 @@
+What is the arcade font called?
+
+It's called often called the “Atari” font, or the “Namco” font in Japan, and it lasted until larger resolutions and 3D gaming became the norm. It's a shining example of how video game designers used an 8-by-8 grid to communicate to players
+
+
+// It's a google font Press Start 2P is a bitmap font based on the font design from 1980s Namco arcade games. It works best at sizes of 8px, 16px and other multiples of 8.
+
+font-family: 'Press Start 2P', sans-serif;
+
+DOM is basically a connection point between HTML documents & Javascripts
+
+Allows JS to access HTML elementts and styles to manipulate th/em
+
+DOM is automatically created by the browser as soon as the HTML page loads & is stored in a tree structure
+
+DOM & DOM methods are the part of web API's ( like libraries browser implements) written in JS & are automatically available for us to use.
